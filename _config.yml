@@ -15,10 +15,11 @@ author: Cem Akdag
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+
 
 # --- Logo --- #
 
@@ -40,14 +41,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #facebook: deanattali
+  github: "https://github.com/CemAdg"
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
   linkedin: "https://www.linkedin.com/in/cem-akdag/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -80,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://cemadg.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
